@@ -2,7 +2,7 @@
 
 A custom personal website for lash artist **@angeleyesbydi**, built with HTML and CSS.
 
-**Live site:** [coming soon]
+**Live site:** https://vuongb1.github.io/angeleyesbydi
 
 ---
 
