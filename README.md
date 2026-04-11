@@ -65,7 +65,6 @@ This is the official website for **Angel Eyes by Di**, a lash extension artist b
 ## Contact & Booking
 
 - 📸 Instagram: [@angeleyesbydi](https://www.instagram.com/angeleyesbydi)
-- 📞 (201) 832-8828
 - 📅 [Book on GlossGenius](https://serenitybyshaye.glossgenius.com)
 
 ---
